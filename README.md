@@ -2,4 +2,4 @@
 My first webpage using flexbox
 
 
-live : https://KruzDev.github.io/Amasing_Dev
+live : https://kruzdev.github.io/Amazing_Dev/
